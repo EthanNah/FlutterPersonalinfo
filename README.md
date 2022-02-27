@@ -8,7 +8,9 @@ Built a personal app for managing projects and portfolios
 - - -
 ## Index Page
 * input Name
+```
 ![Index Page](image/Index.gif)
+```
 - - -
 
 ## Menu Page
