@@ -7,25 +7,25 @@ Built a personal app for managing projects and portfolios
 ## Example
 - - -
 ## Index Page
-* input Name
-```
+* input Name   
+
 ![Index Page](image/Index.gif)
-```
+
 - - -
 
 ## Menu Page
-* Show Menu List
+* Show Menu List    
 ![Menu Page](image/Menu.gif)
 - - -
 
 ## Linked-in / Git-hub Link
-* Link Menu
+* Link Menu    
 ![Link](image/Linked.gif)
 ![Link2](image/Git-hub.gif)
 - - -
 
 ## Personal 
-* Other Menu
+* Other Menu    
 ![Travel](image/Travel.gif)
 - - -
 
