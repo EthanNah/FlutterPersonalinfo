@@ -3,7 +3,7 @@
 ## About this Project
 * An application created to easily access links such as GitHub and LinkedIn and other information on a mobile phone.
 * Basic 'dark mode' and sidebar functions are also added.
-* Project written by Flutter
+* Project written in Flutter
 - - - 
 ## OverView   
 ### Index-Menu -Link- Showing Pictures
